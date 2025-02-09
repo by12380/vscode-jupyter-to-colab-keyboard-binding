@@ -1,0 +1,91 @@
+[
+    {
+        "key": "ctrl+enter",
+        "command": "notebook.cell.execute"
+    },
+    {
+        "key": "shift+enter",
+        "command": "notebook.cell.executeAndSelectBelow"
+    },
+    {
+        "key": "alt+enter",
+        "command": "notebook.cell.executeAndInsertBelow"
+    },
+    {
+        "key": "ctrl+m a",
+        "command": "notebook.cell.insertCodeCellAbove"
+    },
+    {
+        "key": "ctrl+m b",
+        "command": "notebook.cell.insertCodeCellBelow"
+    },
+    {
+        "key": "ctrl+m d",
+        "command": "notebook.cell.delete"
+    },
+    {
+        "key": "ctrl+m z",
+        "command": "undo"
+    },
+    {
+        "key": "ctrl+m y",
+        "command": "notebook.cell.changeToCode"
+    },
+    {
+        "key": "ctrl+m m",
+        "command": "notebook.cell.changeToMarkdown"
+    },
+    {
+        "key": "ctrl+m s",
+        "command": "workbench.action.files.save"
+    },
+    {
+        "key": "ctrl+m x",
+        "command": "notebook.cell.cut"
+    },
+    {
+        "key": "ctrl+m c",
+        "command": "notebook.cell.copy"
+    },
+    {
+        "key": "ctrl+m v",
+        "command": "notebook.cell.paste"
+    },
+    {
+        "key": "ctrl+m shift+v",
+        "command": "notebook.cell.pasteAbove"
+    },
+    {
+        "key": "ctrl+m k",
+        "command": "notebook.cell.moveUp"
+    },
+    {
+        "key": "ctrl+m j",
+        "command": "notebook.cell.moveDown"
+    },
+    {
+        "key": "ctrl+m /",
+        "command": "editor.action.commentLine",
+        "when": "notebookEditorFocused"
+    },
+    {
+        "key": "ctrl+shift+-",
+        "command": "notebook.cell.split"
+    },
+    {
+        "key": "ctrl+m l",
+        "command": "notebook.cell.toggleLineNumbers"
+    },
+    {
+        "key": "ctrl+m o",
+        "command": "notebook.cell.toggleOutputs"
+    },
+    {
+        "key": "ctrl+shift+f",
+        "command": "notebook.find"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "notebook.find"
+    }
+]
