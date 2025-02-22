@@ -79,13 +79,5 @@
     {
         "key": "ctrl+m o",
         "command": "notebook.cell.toggleOutputs"
-    },
-    {
-        "key": "ctrl+shift+f",
-        "command": "notebook.find"
-    },
-    {
-        "key": "ctrl+f",
-        "command": "notebook.find"
     }
 ]
